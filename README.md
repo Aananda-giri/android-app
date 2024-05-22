@@ -1,7 +1,8 @@
 # react-app
 
-`buildizer init`  # can change buildozer specs
-`buildozer -v android debug  `
+### Run this code after installing buildozer
+`buildozer init`  # can change buildozer specs
+`buildozer -v android debug` 
     * build android app (10-30 min.)
     * generates .apk file: bin/
 
@@ -20,3 +21,12 @@
 * [youtube-video](https://www.youtube.com/watch?v=6gNpSuE01qE)
 
 pip install kivy[full]
+
+
+stanley mcchrystak 2011 ted talk
+angela lee ted talk
+drew dudley ted talk
+adam grant ted talk
+david logan ted talk
+shawn achor ted talk
+simon sinek ted talk
